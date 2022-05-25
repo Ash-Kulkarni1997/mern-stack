@@ -4,7 +4,7 @@
 </p>
 <hr>
 <div>
-    <h3>Tech Stack</h3>
+    <h3>Tech Stack:</h3>
     <ul>
         <li>React</li>
         <li>Node.js</li>
@@ -15,15 +15,16 @@
 </div>
 <hr>
 <div>
-    <h3>Tools Used in this Project</h3>
+    <h3>Tools Used in this Project:</h3>
     <ul>
         <li>Postman</li>
-        <li>MongoDB Atlas (Cloud Database)</li>
+        <li>MongoDB Atlas (Cloud Database) via MongoDB Compass Desktop App</li>
+        <li>JWT.io</li>
     </ul>
 </div>
 <hr>
 <div>
-    <h3>Approach</h3>
+    <h3>Approach:</h3>
     <ol>
         <li>Create CRUD Rest APIs & Routes</li>
         <li>Set Up Cloud Database</li>
@@ -31,7 +32,7 @@
     </ol>
 </div>
 <div>
-    <h3>Detailed Steps</h3>
+    <h3>Setup:</h3>
     <ol>
         <li>
             Create a server.js file to be the entry point of the server.
@@ -56,6 +57,8 @@
                 <li>npm i mongoose</li>
                 <li>npm i colors</li>
                 <li>npm i express-async-handler</li>
+                <li>npm i bcryptjs</li>
+                <li>npm i jsonwebtoken</li>
             </ul>
             <p>
                 (Can also type something like the following into the terminal: 
@@ -78,7 +81,6 @@
                 <li>"server": "nodemon backend/server.js"</li>
             </ul>
         </li>
-        <li></li>
     </ol>
 </div>
 
